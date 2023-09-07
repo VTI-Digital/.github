@@ -47,8 +47,8 @@ OAO "VTI" owns a Testing Ground for energy equipment featuring an extensive rang
 
 - 🌐 **Website**: [OAO VTI](#)
 - 📧 **Email**: [info@vti.ru](mailto:info@vti.ru)
-- 🏠 **Address**: [Your Address Here]
-- 📞 **Phone**: [Your Phone Here]
+- 🏠 **Address**: [Russian Federation, 115280, Moscow, Avtozavodskaya Street, Building 14]
+- 📞 **Phone**: [(495) 137-77-70]
 
 <div align="center">
 
