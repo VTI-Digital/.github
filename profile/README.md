@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 OAO "VTI" - Scientific and Research Institute 🌐
+# 🌐 JSC "VTI" - Scientific and Research Institute 🌐
   
 ![VTI Logo](https://vti.ru/templates/vti//images/logo.png)
 
@@ -8,7 +8,7 @@
 
 ## 🌟 About Us
 
-Founded on July 13, 1921, OAO "VTI" (Open Joint Stock Company "VTI") is the first sector-focused scientific research institution in the country.
+Founded on July 13, 1921, JSC "VTI" (Open Joint Stock Company "VTI") is the first sector-focused scientific research institution in the country.
 
 ## 👩‍🔬 Intellectual Capital 🧠
 
@@ -35,17 +35,41 @@ Our mission is to provide scientific and technical solutions and services for th
 
 ## 📚 Expertise and Capabilities 🛠️
 
-The core scientific capacity of OAO "VTI" is focused within 14 scientific departments and 32 laboratories, covering the full spectrum of thermal power engineering, enabling us to tackle virtually any challenge related to the operation, adjustment, and launch of thermal power plants. 
+The core scientific capacity of JSC "VTI" is focused within 14 scientific departments and 32 laboratories, covering the full spectrum of thermal power engineering, enabling us to tackle virtually any challenge related to the operation, adjustment, and launch of thermal power plants. 
 
 We have extensive experience in developing regulatory and technical documentation, with over 200 federal R&D documents for the energy sector produced and two national standards developed in recent years alone.
 
 ## 🧪 Testing Grounds 🛰️
 
-OAO "VTI" owns a Testing Ground for energy equipment featuring an extensive range of test stands, a state-of-the-art IT complex, and a competent workforce to advance digitalization projects and create effective solutions in the energy sector using modern intelligent tools.
+JSC "VTI" owns a Testing Ground for energy equipment featuring an extensive range of test stands, a state-of-the-art IT complex, and a competent workforce to advance digitalization projects and create effective solutions in the energy sector using modern intelligent tools.
+
+
+## 🌐 Digital Transformation & Technology Adoption 🤖
+
+Here at JSC "VTI," we're passionate about incorporating the latest technologies into our workflow for optimized performance and futuristic solutions. Our focus areas include:
+
+- 🤖 **AI & Machine Learning**: Utilizing advanced algorithms to interpret complex data, identify patterns, and make decisions.
+  
+- 🐍 **Python Development**: Crafting versatile scripts and applications to handle a variety of tasks from data analysis to automation.
+  
+- 🌐 **DevOps Practices**: Streamlining the development process through CI/CD pipelines, automated testing, and agile methodologies.
+  
+- 🗣 **Chatbots**: Leveraging conversational agents to provide real-time assistance, improve customer service, and automate routine tasks.
+  
+- 🌀 **Convolutional Neural Networks (CNN)**: Applying these in image and video recognition, recommender systems, and other specific areas.
+  
+- 👁 **Computer Vision (CV)**: Automating the interpretation of visual information from the world to make more informed decisions.
+
+- 🥧 **Raspberry Pi & IoT**: Using mini-computers and Internet of Things devices for smart solutions in automation and data collection.
+  
+- 💌 **Desktop Apps & Telegram Integrations**: Creating intuitive desktop applications and integrating various services with Telegram for seamless communication and data exchange.
+
+We're always open to exploring new technologies and paradigms to keep up with the rapidly evolving digital landscape.
+
 
 ## 📞 Contact Us
 
-- 🌐 **Website**: [OAO VTI](#)
+- 🌐 **Website**: [JSC VTI](https://vti.ru/)
 - 📧 **Email**: [info@vti.ru](mailto:info@vti.ru)
 - 🏠 **Address**: [Russian Federation, 115280, Moscow, Avtozavodskaya Street, Building 14]
 - 📞 **Phone**: [(495) 137-77-70]
