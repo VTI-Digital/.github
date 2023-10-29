@@ -4,7 +4,6 @@
   
 <p align="center">
   <img src="https://vti.ru/templates/vti//images/logo.png" alt="VTI Logo" width="400" style="vertical-align:middle; margin-right: 15px;">
-  <img src="https://github.com/VTI-Digital/.github/assets/99917230/d9bf5ad2-2474-4379-b4af-261fef9c5391" alt="image" width="250" height="250" style="vertical-align:middle; margin-left: 15px;">
 </p>
 
 
@@ -31,6 +30,9 @@ Founded on July 13, 1921, JSC "VTI" (Open Joint Stock Company "VTI") is the firs
 
 🏙️ **We also function as a Technopark in Moscow, hosting over 100 tenant companies.** 🏙️
 
+<p align="center">
+  <img src="https://github.com/VTI-Digital/.github/assets/99917230/d9bf5ad2-2474-4379-b4af-261fef9c5391" alt="image" width="250" height="250" style="vertical-align:middle; margin-left: 15px;">
+</p>
 </div>
 
 ## 🌍 Our Mission
