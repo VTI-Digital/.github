@@ -73,18 +73,26 @@ Here at JSC "VTI," we're passionate about incorporating the latest technologies 
 
 We're always open to exploring new technologies and paradigms to keep up with the rapidly evolving digital landscape.
 
-<h2> 📞 Contact Us</h2>
-<ul>
-  <li>🌐 <b>Website</b>: <a href="https://vti.ru/">JSC VTI</a></li>
-  <li>📧 <b>Email</b>: <a href="mailto:info@vti.ru">info@vti.ru</a></li>
-  <li>🏠 <b>Address</b>: Russian Federation, 115280, Moscow, Avtozavodskaya Street, Building 14</li>
-  <li>📞 <b>Phone</b>: (495) 137-77-70</li>
-</ul>
+---
 
-<div align="center">
-<p>
-<img src="https://github.com/VTI-Digital/.github/assets/99917230/d9bf5ad2-2474-4379-b4af-261fef9c5391" alt="image" width="350">
-</p></div>
+<table style="width: 100%; border-collapse: collapse;">
+    <tr>
+        <td valign="top" style="width: 70%; padding-right: 20px;">
+            <ul>
+            <h2> 📞 Contact Us</h2>
+            <li>🌐 <b>Website</b>: <a href="https://vti.ru/">JSC VTI</a></li>
+            <li>📧 <b>Email</b>: <a href="mailto:info@vti.ru">info@vti.ru</a></li>
+            <li>🏠 <b>Address</b>: Russian Federation, 115280, Moscow, Avtozavodskaya Street, Building 14</li>
+            <li>📞 <b>Phone</b>: (495) 137-77-70</li>
+            </ul>
+        </td>
+        <td valign="top" style="width: 30%;">
+            <div style="border-radius: 30%; overflow: hidden;">
+                <img src="https://github.com/VTI-Digital/.github/assets/99917230/d9bf5ad2-2474-4379-b4af-261fef9c5391" alt="image" width="350">
+            </div>
+        </td>
+    </tr>
+</table>
       
 <div align="left">
 <h2> 🌐 Links </h2>
@@ -95,6 +103,7 @@ We're always open to exploring new technologies and paradigms to keep up with th
   <li><a href="https://vti.ru/scientific-event/plan-of-scientific-events/">Upcoming Events</a></li>
 </ul>
 </div>
+
 
 ---
 
