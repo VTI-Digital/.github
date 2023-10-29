@@ -73,10 +73,9 @@ Here at JSC "VTI," we're passionate about incorporating the latest technologies 
 
 We're always open to exploring new technologies and paradigms to keep up with the rapidly evolving digital landscape.
 
-<p align="center">
-  <img src="https://github.com/VTI-Digital/.github/assets/99917230/d9bf5ad2-2474-4379-b4af-261fef9c5391" alt="image" width="350" style="vertical-align:middle; margin-left: 15px;">
-</p>
-</div>
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 ## 📞 Contact Us
 
@@ -94,6 +93,18 @@ We're always open to exploring new technologies and paradigms to keep up with th
 - [Upcoming Events](https://vti.ru/scientific-event/plan-of-scientific-events/)
 
 </div>
+
+    </td>
+    <td valign="top" width="50%">
+      
+<p align="center">
+  <img src="https://github.com/VTI-Digital/.github/assets/99917230/d9bf5ad2-2474-4379-b4af-261fef9c5391" alt="image" width="350" style="vertical-align:middle; margin-left: 15px;">
+</p>
+
+    </td>
+  </tr>
+</table>
+
 
 ---
 
