@@ -95,6 +95,11 @@ We're always open to exploring new technologies and paradigms to keep up with th
             <li><a href="https://vti.ru/scientific-event/plan-of-scientific-events/">Upcoming Events</a></li>
             </ul>
         </td>
+      <td valign="top" style="width: 20%;">
+        <div style="border-radius: 30%; overflow: hidden;">
+            <img src="https://github.com/VTI-Digital/.github/assets/99917230/168d36ad-e92e-46b9-a3e9-4d01305209bd" alt="VTI" height="370">
+        </div>
+      </td>
     </tr>
 </table>
 
