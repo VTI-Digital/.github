@@ -2,9 +2,10 @@
 
 # 🌐 JSC "VTI" - Scientific and Research Institute 🌐
   
-![VTI Logo](https://vti.ru/templates/vti//images/logo.png)
-![image](https://github.com/VTI-Digital/.github/assets/99917230/d9bf5ad2-2474-4379-b4af-261fef9c5391)
-
+<p align="center">
+  <img src="https://vti.ru/templates/vti//images/logo.png" alt="VTI Logo" width="200" height="100" style="vertical-align:middle">
+  <img src="https://github.com/VTI-Digital/.github/assets/99917230/d9bf5ad2-2474-4379-b4af-261fef9c5391" alt="image" width="500" height="500" style="vertical-align:middle">
+</p>
 
 </div>
 
