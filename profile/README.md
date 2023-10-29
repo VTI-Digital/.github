@@ -79,7 +79,7 @@ We're always open to exploring new technologies and paradigms to keep up with th
     <tr>
       <td valign="top" style="width: 35%;">
           <div style="border-radius: 30%; overflow: hidden;">
-              <img src="https://github.com/VTI-Digital/.github/assets/99917230/d9bf5ad2-2474-4379-b4af-261fef9c5391" alt="image" height="350">
+              <img src="https://github.com/VTI-Digital/.github/assets/99917230/d9bf5ad2-2474-4379-b4af-261fef9c5391" alt="image" width="320" height="350">
           </div>
       </td>
       <td valign="top" style="width: 50%; padding-right: 20px;">
@@ -87,7 +87,7 @@ We're always open to exploring new technologies and paradigms to keep up with th
             <h3> 📞 Contact Us</h3>
             <li>🌐 <b>Website</b>: <a href="https://vti.ru/">JSC VTI</a></li>
             <li>📧 <b>Email</b>: <a href="mailto:info@vti.ru">info@vti.ru</a></li>
-            <li>🏠 <b>Address</b>: Russian Federation, 115280,  <br>Moscow,Avtozavodskaya Street, Building 14</li>
+            <li>🏠 <b>Address</b>: Russian Federation, 115280,  <br>Moscow, Avtozavodskaya Street, Building 14</li>
             <li>📞 <b>Phone</b>: (495) 137-77-70</li>
             <h3> 🌐 Links </h3>
             <li><a href="https://vti.ru/">Official Website</a></li>
