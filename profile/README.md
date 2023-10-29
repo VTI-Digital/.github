@@ -79,18 +79,18 @@ We're always open to exploring new technologies and paradigms to keep up with th
 
 <h2> 📞 Contact Us</h2>
 
-- 🌐 **Website**: [JSC VTI](https://vti.ru/)
-- 📧 **Email**: [info@vti.ru](mailto:info@vti.ru)
-- 🏠 **Address**: [Russian Federation, 115280, Moscow, Avtozavodskaya Street, Building 14]
-- 📞 **Phone**: [(495) 137-77-70]
+<li> 🌐 **Website**: [JSC VTI](https://vti.ru/)</li>
+<li> 📧 **Email**: [info@vti.ru](mailto:info@vti.ru)</li>
+<li> 🏠 **Address**: [Russian Federation, 115280, Moscow, Avtozavodskaya Street, Building 14]</li>
+<li> 📞 **Phone**: [(495) 137-77-70]</li>
 
 <div align="center">
 
 <h2> 🌐 Links</h2>
 
-- [Official Website](https://vti.ru/)
-- [Research Papers](https://vti.ru/public/)
-- [Upcoming Events](https://vti.ru/scientific-event/plan-of-scientific-events/)
+<li> [Official Website](https://vti.ru/)</li>
+<li> [Research Papers](https://vti.ru/public/)</li>
+<li> [Upcoming Events](https://vti.ru/scientific-event/plan-of-scientific-events/)</li>
 
 </div>
 
