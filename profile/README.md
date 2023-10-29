@@ -77,7 +77,7 @@ We're always open to exploring new technologies and paradigms to keep up with th
 
 <table style="width: 100%; border-collapse: collapse;">
     <tr>
-        <td valign="top" style="width: 50%; padding-right: 20px;">
+        <td valign="top" style="width: 60%; padding-right: 20px;">
             <ul>
             <h2> 📞 Contact Us</h2>
             <li>🌐 <b>Website</b>: <a href="https://vti.ru/">JSC VTI</a></li>
