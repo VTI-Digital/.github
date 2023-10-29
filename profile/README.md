@@ -81,9 +81,10 @@ We're always open to exploring new technologies and paradigms to keep up with th
   <li>📞 <b>Phone</b>: (495) 137-77-70</li>
 </ul>
 
-      <p align="center">
-        <img src="https://github.com/VTI-Digital/.github/assets/99917230/d9bf5ad2-2474-4379-b4af-261fef9c5391" alt="image" width="350" style="vertical-align:middle; margin-left: 15px;">
-      </p>
+<div align="center">
+<p>
+<img src="https://github.com/VTI-Digital/.github/assets/99917230/d9bf5ad2-2474-4379-b4af-261fef9c5391" alt="image" width="350">
+</p></div>
       
 <div align="center">
 <h2> 🌐 Links </h2>
