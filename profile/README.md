@@ -77,7 +77,7 @@ We're always open to exploring new technologies and paradigms to keep up with th
   <tr>
     <td valign="top" width="50%">
 
-## 📞 Contact Us
+<h2> 📞 Contact Us</h2>
 
 - 🌐 **Website**: [JSC VTI](https://vti.ru/)
 - 📧 **Email**: [info@vti.ru](mailto:info@vti.ru)
@@ -86,7 +86,7 @@ We're always open to exploring new technologies and paradigms to keep up with th
 
 <div align="center">
 
-## 🌐 Links
+<h2> 🌐 Links</h2>
 
 - [Official Website](https://vti.ru/)
 - [Research Papers](https://vti.ru/public/)
