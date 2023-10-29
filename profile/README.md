@@ -77,27 +77,27 @@ We're always open to exploring new technologies and paradigms to keep up with th
 
 <table style="width: 100%; border-collapse: collapse;">
     <tr>
-      <td valign="top" style="width: 40%;">
+      <td valign="top" style="width: 35%;">
           <div style="border-radius: 30%; overflow: hidden;">
-              <img src="https://github.com/VTI-Digital/.github/assets/99917230/d9bf5ad2-2474-4379-b4af-261fef9c5391" alt="image" height="370">
+              <img src="https://github.com/VTI-Digital/.github/assets/99917230/d9bf5ad2-2474-4379-b4af-261fef9c5391" alt="image" height="350">
           </div>
       </td>
-      <td valign="top" style="width: 60%; padding-right: 20px;">
+      <td valign="top" style="width: 50%; padding-right: 20px;">
             <ul>
-            <h2> 📞 Contact Us</h2>
+            <h3> 📞 Contact Us</h3>
             <li>🌐 <b>Website</b>: <a href="https://vti.ru/">JSC VTI</a></li>
             <li>📧 <b>Email</b>: <a href="mailto:info@vti.ru">info@vti.ru</a></li>
-            <li>🏠 <b>Address</b>: Russian Federation, 115280, Moscow, <br>Avtozavodskaya Street, Building 14</li>
+            <li>🏠 <b>Address</b>: Russian Federation, 115280,  <br>Moscow,Avtozavodskaya Street, Building 14</li>
             <li>📞 <b>Phone</b>: (495) 137-77-70</li>
-            <h2> 🌐 Links </h2>
+            <h3> 🌐 Links </h3>
             <li><a href="https://vti.ru/">Official Website</a></li>
             <li><a href="https://vti.ru/public/">Research Papers</a></li>
             <li><a href="https://vti.ru/scientific-event/plan-of-scientific-events/">Upcoming Events</a></li>
             </ul>
         </td>
-      <td valign="top" style="width: 20%;">
+      <td valign="top" style="width: 15%;">
         <div style="border-radius: 30%; overflow: hidden;">
-            <img src="https://github.com/VTI-Digital/.github/assets/99917230/168d36ad-e92e-46b9-a3e9-4d01305209bd" alt="VTI" height="370">
+            <img src="https://github.com/VTI-Digital/.github/assets/99917230/168d36ad-e92e-46b9-a3e9-4d01305209bd" alt="VTI" height="350">
         </div>
       </td>
     </tr>
